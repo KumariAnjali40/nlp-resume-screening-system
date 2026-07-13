@@ -78,7 +78,7 @@ GeminiEtharaAiTraning/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+https://github.com/KumariAnjali40/nlp-resume-screening-system.git
 ```
 
 Go inside the project
