@@ -1,0 +1,2 @@
+job_id,job_title,required_skills,preferred_skills,minimum_experience,education_requirement,job_description
+101,Senior Python Backend Engineer,"Python, SQL, Django, AWS, Git","Docker, Kubernetes, FastAPI, Redis",5,Bachelor,Looking for a senior Python software engineer with heavy database and systems optimization expertise using AWS and Django architecture patterns. Must write clean documentation and design robust automated microservices pipelines.
