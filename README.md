@@ -6,7 +6,7 @@ An AI-powered Resume Screening System built using **Python, Streamlit, Scikit-le
 
 ## 🚀 Live Demo
 
-🔗 https://llmetharaai.onrender.com/
+🔗 https://nlp-resume-screening-system.onrender.com
 
 ---
 
